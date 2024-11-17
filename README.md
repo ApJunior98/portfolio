@@ -1,6 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-
-![image]('https://repository-images.githubusercontent.com/889999156/a8683896-e7c7-44ec-89cd-ffce0a7764ee')
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
